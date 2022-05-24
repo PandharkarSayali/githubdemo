@@ -3,7 +3,7 @@ package subproject;
 public class DemoSubproject {
 
 	public static void main(String[] args) { 
-		int k_subproject;
+		int k_subproject; 
 		
 	}
 	
