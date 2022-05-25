@@ -20,13 +20,4 @@ sources:
     - 'libs'
     - '.git'
     - 'demosubproject'
-
-modules:
-    - name: gamma_java
-      enabled: true
-      rules:
-         - name: 'Use Of Sysout'
-           enabled: false
-    - name: pmd
-      enabled: true
      
