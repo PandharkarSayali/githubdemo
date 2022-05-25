@@ -24,3 +24,6 @@ sources:
 modules:
     - name: pmd
       enabled: true
+      rules:
+       - name: 'Use Of Sysout'
+         enabled: true
