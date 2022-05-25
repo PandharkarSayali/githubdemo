@@ -20,3 +20,9 @@ sources:
     - 'libs'
     - '.git'
     - 'demosubproject'
+
+- name: pmd
+  enabled: true
+  rules:
+       - name: 'Use Of Sysout'
+       enabled: false
