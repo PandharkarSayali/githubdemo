@@ -22,7 +22,7 @@ sources:
     - 'demosubproject'
 
 modules:
-    - name: pmd
+    - name: gamma_java
       enabled: true
       rules:
          - name: 'Use Of Sysout'
