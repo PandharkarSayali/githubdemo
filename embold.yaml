@@ -21,8 +21,9 @@ sources:
     - '.git'
     - 'demosubproject'
 
-- name: pmd
-  enabled: true
-  rules:
+modules:
+    - name: pmd
+      enabled: true
+      rules:
        - name: 'Use Of Sysout'
-       enabled: false
+         enabled: false
