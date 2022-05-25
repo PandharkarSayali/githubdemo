@@ -26,4 +26,4 @@ modules:
       enabled: true
       rules:
        - name:'Use Of Sysout'
-         enabled: false
+       enabled: false
