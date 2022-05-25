@@ -25,5 +25,5 @@ modules:
     - name: pmd
       enabled: true
       rules:
-       - name: 'Use Of Sysout'
-           enabled: false
+       - name:'Use Of Sysout'
+         enabled: false
