@@ -23,8 +23,7 @@ sources:
     - '.git'
     - 'demosubproject'
 
-# Define modules one would like to run or disable. This is enough for Basic Users
-# Get List of Modules (Which are Default Enabled/Disabled) at the documentation link above
+#Specify modules you would like to enable or disable.
 #modules:
 #    - name: gamma_java
 #      enabled: true
@@ -33,3 +32,5 @@ sources:
 #           enabled: false
 #    - name: pmd
 #      enabled: true
+
+## Please visit https://docs.embold.io/v2-quick-start-guide/#update-configurations to know more
