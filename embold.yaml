@@ -21,3 +21,12 @@ sources:
     - 'libs'
     - '.git'
     - 'demosubproject'
+     
+modules:
+    - name: gamma_java
+      enabled: true
+      rules:
+         - key: 'EMB-JAVA-10'
+           enabled: false
+    - name: pmd
+      enabled: true
