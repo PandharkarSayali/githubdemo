@@ -28,5 +28,3 @@ modules:
       rules:
          - key: 'EMB-JAVA-10'
            enabled: false
-    - name: pmd
-      enabled: true
