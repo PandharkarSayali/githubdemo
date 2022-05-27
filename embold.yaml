@@ -25,7 +25,7 @@ modules:
     - name: gamma_java
       enabled: true
       rules:
-         - name: 'Use Of Sysout'
+         - key: 'EMB-JAVA-10'
            enabled: false
     - name: pmd
       enabled: true
