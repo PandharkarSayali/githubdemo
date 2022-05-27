@@ -1,4 +1,5 @@
 version: 1
+languages: 'JAVA'
 # Sources mention which Files/Dirs to be taken for Analysis
 sources:
   #Files or Directories to be Excluded are mentioned in exclusions
