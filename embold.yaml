@@ -33,4 +33,8 @@ sources:
 #    - name: pmd
 #      enabled: true
 
+modules:
+    - name: gamma_java
+      enabled: false
+
 ## Please visit https://docs.embold.io/v2-quick-start-guide/#update-configurations to know more
